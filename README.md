@@ -13,18 +13,17 @@
 ---
 
 ## Sumário
-- [Visão Geral](#-visão-geral)
-- [Contexto e Motivação](#-contexto-e-motivação)
-- [Classes Morfológicas](#-classes-morfológicas)
-- [Arquiteturas de Redes Neurais](#-arquiteturas-de-redes-neurais)
-- [Metodologia e Dataset](#-metodologia-e-dataset)
-- [Resultados e Desempenho](#-resultados-e-desempenho)
-- [Estrutura do Repositório](#-estrutura-do-repositório)
-- [Downloads e Releases (Modelos Treinados)](#-downloads-e-releases-modelos-treinados)
-- [Como Executar o Projeto](#-como-executar-o-projeto)
-- [Publicações e Trabalhos Relacionados](#-publicações-e-trabalhos-relacionados)
-- [Licença](#-licença)
-
+- [Visão Geral](#visão-geral)
+- [Contexto e Motivação](#contexto-e-motivação)
+- [Classes Morfológicas](#classes-morfológicas)
+- [Arquiteturas de Redes Neurais](#arquiteturas-de-redes-neurais)
+- [Metodologia e Dataset](#metodologia-e-dataset)
+- [Resultados e Desempenho](#resultados-e-desempenho)
+- [Downloads e Releases (Modelos Treinados)](#downloads-e-releases-modelos-treinados)
+- [Estrutura do Repositório](#estrutura-do-repositório)
+- [Como Executar o Projeto](#como-executar-o-projeto)
+- [Publicações e Trabalhos Relacionados](#publicações-e-trabalhos-relacionados)
+- [Licença](#licença)
 ---
 
 ## Visão Geral
