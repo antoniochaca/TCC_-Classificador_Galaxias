@@ -160,6 +160,9 @@ TCC_-Classificador_Galaxias/
 git clone [https://github.com/antoniochaca/TCC_-Classificador_Galaxias.git](https://github.com/antoniochaca/TCC_-Classificador_Galaxias.git)
 cd TCC_-Classificador_Galaxias
 ```
+
+---
+
 ### 2. Criar Ambiente Virtual e Instalar Dependências
 ```bash
 # Criar ambiente virtual
