@@ -183,3 +183,21 @@ pip install -r requirements.txt
 ```bash
 python src/train.py --model resnet152 --epochs 50 --batch_size 32
 ```
+
+#### Para avaliar um modelo pré-treinado:
+```bash
+python src/evaluate.py --model_path path/to/resnet152_weights.pth
+```
+
+---
+
+## Publicações e Trabalhos Relacionados
+
+Artigo Aprovado no **ENIAC 2026 (Encontro Nacional de Inteligência Artificial e Computacional):**
+
+"Galaxy Morphology Classification with Deep Neural Networks" — Antônio Pedro Chacarosque de Castro & Alison R. Panisson.
+
+**Trabalho de Conclusão de Curso (TCC):** Apresentado no curso de Engenharia de Computação da UFSC, aprovado com nota máxima.
+
+## Licença
+Este projeto é distribuído sob a licença MIT. Sinta-se à vontade para estudar, utilizar e contribuir.
