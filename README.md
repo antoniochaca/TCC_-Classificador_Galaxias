@@ -145,3 +145,19 @@ TCC_-Classificador_Galaxias/
 ├── requirements.txt           # Dependências do projeto
 ├── LICENSE                    # Licença do repositório
 └── README.md                  # Documentação do projeto
+```
+
+---
+
+## Como Executar o Projeto
+
+### Pré-requisitos
+- Python 3.10+
+- GPU recomendada (com suporte a CUDA)
+
+### 1. Clonar o Repositório
+```bash
+git clone [https://github.com/antoniochaca/TCC_-Classificador_Galaxias.git](https://github.com/antoniochaca/TCC_-Classificador_Galaxias.git)
+cd TCC_-Classificador_Galaxias
+```
+
