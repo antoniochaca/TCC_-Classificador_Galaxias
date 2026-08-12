@@ -49,7 +49,7 @@ Substituir o processo de rotulagem manual por métodos de **Deep Learning** perm
 
 O modelo classifica as galáxias em **9 categorias visuais distintas**, alinhadas com as definições do projeto *Galaxy Zoo 2*:
 
-![Exemplos de Galáxias por Classe] <img src="imagens/galaxias.png" alt="Exemplos de Galáxias por Classe" width="700">
+<img src="imagens/galaxias.png" alt="Exemplos de Galáxias por Classe" width="700">
 
 | Rótulo | Classe | Descrição |
 | :---: | :--- | :--- |
