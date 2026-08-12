@@ -1,6 +1,5 @@
 <img width="599" height="390" alt="acuraciatotal" src="https://github.com/user-attachments/assets/aa925c8b-a394-4ae2-811b-20936bccc0e4" />
 <img width="603" height="390" alt="acuraciaResnet" src="https://github.com/user-attachments/assets/076600fb-1338-4d98-9f71-05d80a1b4c40" />
-<img width="1920" height="1080" alt="galaxias" src="https://github.com/user-attachments/assets/2d1528c9-65d7-465b-b903-67548c4eac17" />
 <img width="980" height="780" alt="matrizConfusão" src="https://github.com/user-attachments/assets/b723beb6-9cdf-4050-a22a-b402576cbb70" />
 <img width="927" height="790" alt="matrizConfusãoResnet" src="https://github.com/user-attachments/assets/e4a802d8-6a53-41bd-9b43-55c855e2ecdc" />
 # Classificação Morfológica de Galáxias com Deep Learning
@@ -50,7 +49,9 @@ Substituir o processo de rotulagem manual por métodos de **Deep Learning** perm
 
 ---
 
-## Classes Morfológicas(galaxias.jpg)
+## Classes Morfológicas
+
+<img width="1920" height="1080" alt="galaxias" src="https://github.com/user-attachments/assets/2d1528c9-65d7-465b-b903-67548c4eac17" />
 
 O modelo classifica as galáxias em **9 categorias visuais distintas**, alinhadas com as definições do projeto *Galaxy Zoo 2*:
 
@@ -111,6 +112,19 @@ A avaliação comparativa comprovou a superioridade substancial da arquitetura *
 | :--- | :---: | :--- |
 | **AlexNet** | **76,48%** | Baseline rápido, porém limitado na extração de sutilezas em braços espirais e aneis. |
 | **ResNet152** | **91,96%** | **Acurácia Máxima**. Elevada taxa de acerto e alta capacidade de generalização. |
+
+### Curvas de Aprendizado (Acurácia por Época)
+
+| AlexNet | ResNet152 |
+| :---: | :---: |
+| ![Acurácia por Época - AlexNet](<img width="599" height="390" alt="acuraciatotal" src="https://github.com/user-attachments/assets/aa925c8b-a394-4ae2-811b-20936bccc0e4" />) | ![Acurácia por Época - ResNet152](<img width="603" height="390" alt="acuraciaResnet" src="https://github.com/user-attachments/assets/076600fb-1338-4d98-9f71-05d80a1b4c40" />) |
+
+### Matrizes de Confusão Normalizadas
+
+| AlexNet | ResNet152 |
+| :---: | :---: |
+| ![Matriz de Confusão - AlexNet](<img width="980" height="780" alt="matrizConfusão" src="https://github.com/user-attachments/assets/b723beb6-9cdf-4050-a22a-b402576cbb70" />) | ![Matriz de Confusão - ResNet152](<img width="927" height="790" alt="matrizConfusãoResnet" src="https://github.com/user-attachments/assets/e4a802d8-6a53-41bd-9b43-55c855e2ecdc" />) |
+
 
 ### Destaques por Classe:
 - **Alta performance:** Categorias com bordas e formatos bem estruturados, como **Elípticas** e **Edge-on**.
