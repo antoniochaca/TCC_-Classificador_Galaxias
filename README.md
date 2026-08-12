@@ -109,6 +109,18 @@ A avaliação comparativa comprovou a superioridade substancial da arquitetura *
 | **AlexNet** | **76,48%** | Baseline rápido, porém limitado na extração de sutilezas em braços espirais e aneis. |
 | **ResNet152** | **91,96%** | **Acurácia Máxima**. Elevada taxa de acerto e alta capacidade de generalização. |
 
+### Curvas de Aprendizado (Acurácia por Época)
+
+| AlexNet | ResNet152 |
+| :---: | :---: |
+| ![Acurácia por Época - AlexNet](imagens/acuraciatotal.png) | ![Acurácia por Época - ResNet152](imagens/acuraciaResnet.png) |
+
+### Matrizes de Confusão Normalizadas
+
+| AlexNet | ResNet152 |
+| :---: | :---: |
+| ![Matriz de Confusão - AlexNet](imagens/matrizConfusão.png) | ![Matriz de Confusão - ResNet152](imagens/matrizConfusãoResnet.png) |
+
 ### Destaques por Classe:
 - **Alta performance:** Categorias com bordas e formatos bem estruturados, como **Elípticas** e **Edge-on**.
 - **Maior desafio:** A classe **Irregular**, devido à sua alta variação morfológica intrínseca e sutileza visual frente a galáxias perturbadas/fusões.
