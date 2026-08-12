@@ -160,4 +160,18 @@ TCC_-Classificador_Galaxias/
 git clone [https://github.com/antoniochaca/TCC_-Classificador_Galaxias.git](https://github.com/antoniochaca/TCC_-Classificador_Galaxias.git)
 cd TCC_-Classificador_Galaxias
 ```
+### 2. Criar Ambiente Virtual e Instalar Dependências
+```bash
+# Criar ambiente virtual
+python -m venv venv
+
+# Ativar no Linux/macOS:
+source venv/bin/activate
+
+# Ativar no Windows (PowerShell):
+.\venv\Scripts\Activate.ps1
+
+# Instalar dependências
+pip install -r requirements.txt
+```
 
