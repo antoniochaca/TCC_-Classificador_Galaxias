@@ -45,7 +45,7 @@ Substituir o processo de rotulagem manual por métodos de **Deep Learning** perm
 
 ---
 
-## Classes Morfológicas(galaxias.png)
+## Classes Morfológicas(imagens/galaxias.jpg)
 
 O modelo classifica as galáxias em **9 categorias visuais distintas**, alinhadas com as definições do projeto *Galaxy Zoo 2*:
 
