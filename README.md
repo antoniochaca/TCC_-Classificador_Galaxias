@@ -1,3 +1,8 @@
+<img width="599" height="390" alt="acuraciatotal" src="https://github.com/user-attachments/assets/aa925c8b-a394-4ae2-811b-20936bccc0e4" />
+<img width="603" height="390" alt="acuraciaResnet" src="https://github.com/user-attachments/assets/076600fb-1338-4d98-9f71-05d80a1b4c40" />
+<img width="1920" height="1080" alt="galaxias" src="https://github.com/user-attachments/assets/2d1528c9-65d7-465b-b903-67548c4eac17" />
+<img width="980" height="780" alt="matrizConfusão" src="https://github.com/user-attachments/assets/b723beb6-9cdf-4050-a22a-b402576cbb70" />
+<img width="927" height="790" alt="matrizConfusãoResnet" src="https://github.com/user-attachments/assets/e4a802d8-6a53-41bd-9b43-55c855e2ecdc" />
 # Classificação Morfológica de Galáxias com Deep Learning
 
 [![GitHub release](https://img.shields.io/github/v/release/antoniochaca/TCC_-Classificador_Galaxias?style=flat-square&color=blue)](https://github.com/antoniochaca/TCC_-Classificador_Galaxias/releases/tag/v1.0.0)
