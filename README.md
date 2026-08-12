@@ -177,4 +177,9 @@ source venv/bin/activate
 # Instalar dependências
 pip install -r requirements.txt
 ```
+### 3. Executar Treinamento ou Avaliação
 
+#### Para treinar a ResNet152 no dataset balanceado:
+```bash
+python src/train.py --model resnet152 --epochs 50 --batch_size 32
+```
